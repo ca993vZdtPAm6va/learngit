@@ -1,4 +1,5 @@
 Git is a distributed version control system
 Git is free software under GBL.
 Git has a mutable index called stage.
-git track changes.
+git track changes of files.
+dddd
