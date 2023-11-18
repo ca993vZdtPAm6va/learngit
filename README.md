@@ -21,6 +21,7 @@ gcc sort.c -o sort
 
 
 ## Appendix A. Format of Configure File "config.txt"
+Each line corresponds to a parameter. <br>
 > 1. The file name of input dataset
 > 2. Parameter 1
 > 3. Parameter 2
