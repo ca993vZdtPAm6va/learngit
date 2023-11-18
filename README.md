@@ -2,6 +2,8 @@
 This package contains all source codes for 
 - Selection Sort
 
+The detail could be found in our [technical report](./Test1_Sorting_Algorithm.pdf).
+
 ## Usage Step
 1. Compilation. 
 ```
