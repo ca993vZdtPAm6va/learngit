@@ -21,11 +21,11 @@ gcc sort.c -o sort
 
 
 ## Appendix A. Format of Configure File "config.txt"
-1. The file name of input dataset
-2. Parameter 1
-3. Parameter 2
-4. Parameter 3
-5. Parameter 4
+> 1. The file name of input dataset
+> 2. Parameter 1
+> 3. Parameter 2
+> 4. Parameter 3
+> 5. Parameter 4
 
 ## Appendix B. Format of Input Dataset "data.txt"
 A line corresponds to an unordered sequence. Each element in a sequence is separated by a space " ". <br>
@@ -46,8 +46,8 @@ The format of the line is <br>
 
 ## Appendix E. Format of "time.txt"
 Each line corresponds to a user time and system time. <br>
-1. time for reading the dataset.
-2. time for sorting the input sequence.
-3. time for writing the output file.
-4. time for the sum of all the parts.
+> 1. time for reading the dataset.
+> 2. time for sorting the input sequence.
+> 3. time for writing the output file.
+> 4. time for the sum of all the parts.
 
